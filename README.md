@@ -1,2 +1,2 @@
 # mini-solitaire
-A klondlike solitaire "demake" made in Pyxel.
+A klondlike solitaire "demake" made withPyxel.
